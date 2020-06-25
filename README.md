@@ -1,5 +1,4 @@
-# Creating a Sentiment Analysis Web App 
-## Using PyTorch and AWS Sagemaker
+# Sentiment Analysis tool through AWS Sagemaker and PyTorch
 
 The tutorial - notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with PyTorch and AWS SageMaker.
 
